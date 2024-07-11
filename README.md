@@ -1,3 +1,3 @@
 # apnischooldemo
 This is my first project<br>
-Author: HASTI SAVALIYA
+<strong>Author:</strong> HASTI SAVALIYA
